@@ -1,6 +1,6 @@
 // credentials for China Spec HLS
-app_id = 'eiiOSpnkukjatKeR2912'
-app_code = 'dophzZtVT2m0KYqyk3uZag'
+app_id = ''  
+app_code = ''
 
 // ### BASIC MAP SETUP
 // Get Map Container Element

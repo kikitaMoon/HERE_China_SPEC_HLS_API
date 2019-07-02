@@ -1,6 +1,6 @@
 // credentials for Global HLS
-app_id = 'oyNWTbKIov6XPMlrXxCH'
-app_code = '_W_7qfgpOxthQ4tQQKkbLA'
+app_id = ''
+app_code = ''
 
 // ### BASIC MAP SETUP
 // Get Map Container Element
